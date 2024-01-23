@@ -1,0 +1,17 @@
+{
+    "name": "longtnt/demo-package",
+    "description": "demo",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Longtnt\\DemoPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chau Ngoc Long",
+            "email": "longcn@vietec.com.vn"
+        }
+    ],
+    "require": {}
+}
