@@ -13,5 +13,6 @@
             "email": "longcn@vietec.com.vn"
         }
     ],
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
