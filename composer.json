@@ -1,5 +1,5 @@
 {
-    "name": "longtnt/demo-package",
+    "name": "longtnt2/demo-package",
     "description": "demo",
     "type": "library",
     "autoload": {
